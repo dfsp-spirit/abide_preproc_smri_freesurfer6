@@ -4,7 +4,7 @@ Data from our own pre-processing of the ABIDE I sMRI dataset (1035 subjects) in 
 
 ## About
 
-This is pre-processed structural magnetic resonance imaging (sMRI) data from the ABIDE I dataset. In short, we downloaded all 1035 ABIDE I subjects and ran them through FreeSurfer v6 `recon-all` and related tools (aseg stats, aparc start, lGI computation). The full size of the dataset is 790 GB, so we make it available in chunks.
+This is pre-processed structural magnetic resonance imaging (sMRI) data from the [ABIDE I dataset](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html). In short, we downloaded all 1035 ABIDE I subjects and ran their brain scans through [FreeSurfer v6](https://freesurfer.net/) `recon-all` and related tools (aseg stats, aparc start, lGI computation). The full size of the dataset is 790 GB, so we make it available in chunks.
 
 ## Abvailable data
 
