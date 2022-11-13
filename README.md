@@ -32,7 +32,7 @@ It includes the following files for each subject:
 
 ## License
 
-* This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
+This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
 
 Please cite the relevant ABIDE I papers when using the data for scientific publications, especially the [ABIDE I Announcing Manuscript](http://www.ncbi.nlm.nih.gov/pubmed/23774715) by Di Martino *et al*.
 
