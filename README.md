@@ -10,12 +10,24 @@ This is pre-processed structural magnetic resonance imaging (sMRI) data from the
 
 The following data is available:
 
+### Aggregated stats
 
 * aggregated aparc stats (based on cortical parcellations):
    - for the Desikan atlas: thickness, area, volume
    - see see [stats directory](./stats/)
 * aggregated aseg stats (based on volume segmentation):
    - aseg stats, see [stats directory ](./stats/)
+
+### native space local Gyrification Index (lGI)
+
+ See the [native space lgi data for all ABIDE I subjects](https://doi.org/10.5281/zenodo.7132610) on Zenodo (6.5 GB download).
+
+The download includes only the files required for meshlearn training, for the ABIDE I dataset. These are the following files per subject:
+
+* `<subject>/surf/lh.pial`
+* `<subject>/surf/rh.pial`
+* `<subject>/surf/lh.pial_lgi`
+* `<subject>/surf/rh.pial_lgi`
 
 ## License
 
