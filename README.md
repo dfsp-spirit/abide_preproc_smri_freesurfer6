@@ -1,7 +1,7 @@
 # abide_preproc_smri_freesurfer6
 Data from our own pre-processing of the ABIDE I sMRI dataset (1035 subjects) in FreeSurfer v6.
 
-Make sure to read and understand the license before using the data in this repository. Please cite the relevant ABIDE I papers when using the data for scientific publications, especially the [ABIDE I Announcing Manuscript](http://www.ncbi.nlm.nih.gov/pubmed/23774715) by Di Martino *et al*.
+Make sure to read and understand the license before using the data in this repository.
 
 ## About
 
@@ -33,3 +33,6 @@ It includes the following files for each subject:
 ## License
 
 * This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
+
+Please cite the relevant ABIDE I papers when using the data for scientific publications, especially the [ABIDE I Announcing Manuscript](http://www.ncbi.nlm.nih.gov/pubmed/23774715) by Di Martino *et al*.
+
