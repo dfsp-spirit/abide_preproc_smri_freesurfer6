@@ -49,6 +49,22 @@ It includes the following files for each subject:
 * `<subject>/surf/lh.jacobian_white`
 * `<subject>/surf/rh.jacobian_white`
 
+### Brain Surfaces
+
+See the [brain surfaces for all ABIDE I subjects](https://zenodo.org/record/7373936) on Zenodo (16.3 GB download).
+
+It includes the following files for each subject:
+
+* `<subject>/surf/lh.white`
+* `<subject>/surf/rh.white`
+* `<subject>/surf/lh.orig`
+* `<subject>/surf/rh.orig`
+* `<subject>/surf/lh.sphere`
+* `<subject>/surf/rh.sphere`
+
+Note: The pial surface files are part of the `Local Gyrification Index` dataset, see above.
+
+
 ## License
 
 This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
