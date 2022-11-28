@@ -30,6 +30,25 @@ It includes the following files for each subject:
 * `<subject>/surf/lh.pial_lgi`
 * `<subject>/surf/rh.pial_lgi`
 
+### Native Space Standard Surface Descriptors
+
+See the [surface descriptor data for all ABIDE I subjects](https://zenodo.org/record/7373434) on Zenodo (6.1 GB download).
+
+It includes the following files for each subject:
+
+* `<subject>/surf/lh.thickness`
+* `<subject>/surf/rh.thickness`
+* `<subject>/surf/lh.area`
+* `<subject>/surf/rh.area`
+* `<subject>/surf/lh.volume`
+* `<subject>/surf/rh.volume`
+* `<subject>/surf/lh.curv`
+* `<subject>/surf/rh.curv`
+* `<subject>/surf/lh.sulc`
+* `<subject>/surf/rh.sulc`
+* `<subject>/surf/lh.jacobian_white`
+* `<subject>/surf/rh.jacobian_white`
+
 ## License
 
 This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
