@@ -64,6 +64,19 @@ It includes the following files for each subject:
 
 Note: The pial surface files are part of the `Local Gyrification Index` dataset, see above.
 
+### Labels
+
+See the [labels for all ABIDE I subjects](https://zenodo.org/record/7377435) on Zenodo (4.7 GB download).
+
+It includes the following files for each subject:
+
+* `<subject>/label/lh.cortex.label`
+* `<subject>/label/rh.cortex.label`
+* `<subject>/label/lh.aparc.annot`
+* `<subject>/label/rh.aparc.annot`
+* `<subject>/label/lh.aparc.a2009s.annot`
+* `<subject>/label/rh.aparc.a2009s.annot`
+
 
 ## License
 
