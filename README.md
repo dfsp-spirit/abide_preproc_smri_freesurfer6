@@ -77,6 +77,11 @@ It includes the following files for each subject:
 * `<subject>/label/lh.aparc.a2009s.annot`
 * `<subject>/label/rh.aparc.a2009s.annot`
 
+## What is NOT included
+
+The uploaded archives are very large already, and we opted not to upload log files and other parts of the FreeSurfer 6 output which are typically not relevant.
+
+We have the full data though, and if you feel you require a file that is missing, we can add another upload. Please get in contact by [opening an issue](https://github.com/dfsp-spirit/abide_preproc_smri_freesurfer6/issues) in that case.
 
 ## License
 
