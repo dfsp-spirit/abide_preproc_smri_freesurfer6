@@ -53,7 +53,7 @@ It includes the following files for each subject:
 * `<subject>/surf/lh.jacobian_white`
 * `<subject>/surf/rh.jacobian_white`
 
-### Brain Surfaces
+### Brain Surfaces (Meshes)
 
 See the [brain surfaces for all ABIDE I subjects](https://zenodo.org/record/7373936) on Zenodo (16.3 GB download).
 
