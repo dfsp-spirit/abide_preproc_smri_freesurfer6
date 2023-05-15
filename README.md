@@ -9,7 +9,7 @@ This is pre-processed structural magnetic resonance imaging (sMRI) data from the
 
 The uploaded archives are very large already (> 30 GB), so we opted not to upload log files and other parts of the FreeSurfer 6 output which are typically not relevant for neuroimaging research. We have the full data though, and if you feel you require a file that is missing, we can add that file for all subjects in another upload. Please get in touch by [opening an issue](https://github.com/dfsp-spirit/abide_preproc_smri_freesurfer6/issues) in that case.
 
-## Abvailable data
+## Available data
 
 The following data is available:
 
