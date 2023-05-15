@@ -7,6 +7,8 @@ Make sure to read and understand the license before using the data in this repos
 
 This is pre-processed structural magnetic resonance imaging (sMRI) data from the [ABIDE I dataset](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html). In short, we downloaded all 1035 ABIDE I subjects and ran their brain scans through [FreeSurfer v6](https://freesurfer.net/) `recon-all` and related tools (aseg stats, aparc start, lGI computation). The full size of the dataset is 790 GB, so we make it available in chunks.
 
+The uploaded archives are very large already, so we opted not to upload log files and other parts of the FreeSurfer 6 output which are typically not relevant for neuroimaging research. We have the full data though, and if you feel you require a file that is missing, we can add that file for all subjects in another upload. Please get in touch by [opening an issue](https://github.com/dfsp-spirit/abide_preproc_smri_freesurfer6/issues) in that case.
+
 ## Abvailable data
 
 The following data is available:
@@ -76,12 +78,6 @@ It includes the following files for each subject:
 * `<subject>/label/rh.aparc.annot`
 * `<subject>/label/lh.aparc.a2009s.annot`
 * `<subject>/label/rh.aparc.a2009s.annot`
-
-## What is NOT included
-
-The uploaded archives are very large already, and we opted not to upload log files and other parts of the FreeSurfer 6 output which are typically not relevant.
-
-We have the full data though, and if you feel you require a file that is missing, we can add another upload. Please get in contact by [opening an issue](https://github.com/dfsp-spirit/abide_preproc_smri_freesurfer6/issues) in that case.
 
 ## License
 
