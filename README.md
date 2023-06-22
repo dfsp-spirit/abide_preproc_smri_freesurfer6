@@ -9,8 +9,6 @@ This is pre-processed structural magnetic resonance imaging (sMRI) data from the
 
 The uploaded archives are very large already (> 30 GB), so we opted not to upload log files and other parts of the FreeSurfer 6 output which are typically not relevant for neuroimaging research. We have the full data though, and if you feel you require a file that is missing, we can add that file for all subjects in another upload. Please get in touch by [opening an issue](https://github.com/dfsp-spirit/abide_preproc_smri_freesurfer6/issues) in that case.
 
-Note: Since our group focuses on surface-based (as opposed to volume-based) analysis, we did not upload volumes (the contents of the `<subject>/mri/` folders) so far. As mentioned above, let us know if you need them.
-
 ## Available data
 
 The following data is available:
@@ -80,6 +78,17 @@ It includes the following files for each subject:
 * `<subject>/label/rh.aparc.annot`
 * `<subject>/label/lh.aparc.a2009s.annot`
 * `<subject>/label/rh.aparc.a2009s.annot`
+
+### Volumes (the 3D MRI images)
+
+See the [Brain volumnes for all ABIDE I subjects](https://doi.org/10.5281/zenodo.8068739) on Zenodo (3.1 GB download).
+
+It includes the following files for each subject:
+
+* `<subject>/mri/brain.mgz`
+* `<subject>/mri/brain_mask.mgz`
+* `<subject>/mri/aseg.mgz`
+* `<subject>/mri/wm.mgz`
 
 ## License
 
