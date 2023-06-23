@@ -18,6 +18,9 @@ The following data is available:
 * aggregated aparc stats (based on cortical parcellations):
    - for the Desikan atlas: thickness, area, volume
    - see see [stats directory](./stats/)
+* aggregated aparc stats (based on cortical parcellations):
+   - for the Destrieux atlas: thickness, area, volume
+   - see see [stats/aparc.a2009s/ directory](./stats/aparc.a2009s)
 * aggregated aseg stats (based on volume segmentation):
    - aseg stats, see [stats directory ](./stats/)
 
