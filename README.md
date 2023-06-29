@@ -102,6 +102,19 @@ It includes the following files for each subject:
 * `<subject>/mri/aseg.mgz`
 * `<subject>/mri/wm.mgz`
 
+
+### Surface transforms (sphere.reg files)
+
+See the [Surface transforms for all ABIDE I subjects](https://doi.org/10.5281/zenodo.8094708) on Zenodo (5.5 GB download).
+
+It includes the following files for each subject:
+
+* `<subject>/surf/lh.sphere.reg`
+* `<subject>/surf/rh.sphere.reg`
+
+These files are required if you want to map surface-based data between subjects (including template subjects).
+
+
 ## License
 
 This package contains aggregated data derived from the ABIDE I data set. That data is published under a Creative Commons, Attribution-NonCommercial-Share Alike License as explained in the [ABIDE I Usage Agreement](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html).
